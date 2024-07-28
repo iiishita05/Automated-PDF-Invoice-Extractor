@@ -5,3 +5,4 @@ Features
 Extracts invoice number, date, bill-to address, order ID, and balance due from PDF invoices.
 Supports batch processing of multiple PDF files in a specified folder.
 Outputs extracted data to a CSV file for easy analysis and integration with other tools.
+Dataset Link: https://github.com/femstac/Sample-Pdf-invoices
